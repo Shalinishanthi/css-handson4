@@ -222,9 +222,9 @@ height: 30px;
 .side{
     position: absolute;
     top: 620px;
-    width: 80px;
+    width: 100px;
     height: 235px;
-    left: 1250px;
+    left: 1240px;
     color: white;
     border: none;
     background-color: rgb(88, 87, 87);
